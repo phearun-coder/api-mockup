@@ -103,4 +103,4 @@ class MockupWebviewPanel {
 }
 exports.MockupWebviewPanel = MockupWebviewPanel;
 MockupWebviewPanel.viewType = 'apiMockup';
-//# sourceMappingURL=webviewPanel.js.map
+//# sourceMappingURL=webviewPanel2.js.map
